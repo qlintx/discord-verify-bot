@@ -45,3 +45,5 @@ pip install disnake
 ```bash
 python bot.py # oder wie du dein file gennant hast
 ```
+
+Bei Fehlern oder Hilfe meinen discord joinen: https://discord.gg/shadowbyteofficial
